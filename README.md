@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zendelfur- 👀 I’m interested in open-source alternatives and learning programming languages.
 - 🌱 I’m currently learning C and Python.
 - 💞️ I’m looking to collaborate on anything I can be useful to.
-- 📫 How to reach me [a link](https://discord.gg/nXVVXS7c)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 [Discord](https://discord.gg/nXVVXS7c) or [Reddit](https://www.reddit.com/u/Optimal-Lecture567/s/bk1KknUtCG)
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I got a strange addiction to a game called "Valorant"
