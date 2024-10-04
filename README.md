@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Zendelfur
+- 👀 I’m interested in open-source alternatives and learning programming languages.
+- 🌱 I’m currently learning C and Python.
+- 💞️ I’m looking to collaborate on anything I can be useful to.
+- 📫 How to reach me <Discord>
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
